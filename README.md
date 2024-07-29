@@ -2,8 +2,8 @@
 I graduated from the Bulgarian Naval Academy and am with 9 years in the shipping industry.<br>
 I attained everything that the proffesion has to offer and decided to move on with my second passion - computer science.<br><br>
 I recently completed Quality Assurance course to get myself started.<br>
-🌱 Currently learning HTML5, CSS3 & JavaScript to create website templates. 🌱<br><br>
-👀 I’m interested in learning Front-end and Back-end skills. 👀<br><br>
+🌱 Currently learning HTML5, CSS3, SCSS & JavaScript. 🌱<br><br>
+👀 I’m interested in acquiring Front-end and Back-end skills. 👀<br><br>
 
 I’m looking to collaborate in projects requireing creation of FSD's, test suites, test cases, test scenarios, check lists, etc.<br><br>
 
