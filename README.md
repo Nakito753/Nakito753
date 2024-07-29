@@ -5,8 +5,6 @@ I recently completed Quality Assurance course to get myself started.<br>
 🌱 Currently learning HTML5, CSS3, SCSS & JavaScript. 🌱<br><br>
 👀 I’m interested in acquiring Front-end and Back-end skills. 👀<br><br>
 
-I’m looking to collaborate in projects requireing creation of FSD's, test suites, test cases, test scenarios, check lists, etc.<br><br>
-
 📫 You can reach me at:<br>
   <a href="https://www.linkedin.com/in/nikolay-drosev-b9a95bb8/" target="_blank">LinkedIn</a>
   <a href="https://www.facebook.com/Nomura.Nakito/"> Facebook</a>
